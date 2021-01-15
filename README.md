@@ -12,5 +12,6 @@ From Udemy's 50 Projects in 50 Days course.
 1. [Hidden Search Widget](https://tomppk.github.io/50-projects/4.hidden-search-widget/)
 1. [Blurry Loading](https://tomppk.github.io/50-projects/5.blurry-loading/)
 1. [Scroll Animation](https://tomppk.github.io/50-projects/6.scroll-animation/)
+1. [Split Landing Page](https://tomppk.github.io/50-projects/7.split-landing-page/)
 
 
