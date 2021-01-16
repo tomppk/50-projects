@@ -14,5 +14,6 @@ From Udemy's 50 Projects in 50 Days course.
 1. [Scroll Animation](https://tomppk.github.io/50-projects/6.scroll-animation/)
 1. [Split Landing Page](https://tomppk.github.io/50-projects/7.split-landing-page/)
 1. [Form Wave Animation](https://tomppk.github.io/50-projects/8.form-wave-animation/)
+1. [Sound Board](https://tomppk.github.io/50-projects/9.sound-board/)
 
 
