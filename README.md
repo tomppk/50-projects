@@ -16,5 +16,6 @@ From Udemy's 50 Projects in 50 Days course.
 1. [Form Wave Animation](https://tomppk.github.io/50-projects/8.form-wave-animation/)
 1. [Sound Board](https://tomppk.github.io/50-projects/9.sound-board/)
 1. [Dad Jokes](https://tomppk.github.io/50-projects/10.dad-jokes/)
+1. [Event KeyCodes](https://tomppk.github.io/50-projects/11.event-keycodes/)
 
 
